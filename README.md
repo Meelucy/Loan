@@ -26,9 +26,12 @@ This project consist of C++ contexts such as structures, functions, switch-case 
 
 <p align=”center”>
 
-The system will display a menu : <br/>
+The system will display a menu : 
 
-<img src=https://i.imgur.com/62TgaWL.png height=”80%” width=”80%” alt=”Disk Sanitization Steps”/>
+<img src=https://imgur.com/a/8p2zjeZh.png
+height=”80%” width=”80%” alt=”Disk Sanitization Steps”/>
+
+
 
 <br />
 
@@ -76,7 +79,7 @@ The user be asked to enter any amount then the system will calculate the interes
 
   <br/>
 
-<img src=https://i.imgur.com/JL945Ga.png height=”80%” width=”80%” alt=”Disk Sanitization Steps”/>
+<img src=https://imgur.com/a/ZpBGkab.png height=”80%” width=”80%” alt=”Disk Sanitization Steps”/>
 
 <br />
 
