@@ -1,11 +1,12 @@
-<h1></h1>
+<h1>C++ project</h1>
 
+<h1>Saphumula Savings and Credit Cooperatives (SSCCO) C++ Loan System </h1>
 
 
 
 <h2>Description</h2>
 
-Project consists of a C++ Loan system that allow customers to;
+This project consist of C++ contexts such as structures, functions, switch-case menu to create a solution for managing customer registration and loan applications, savings details. The system allow customers to;
 
 •	login with his/her with account 
 
@@ -14,6 +15,8 @@ Project consists of a C++ Loan system that allow customers to;
 •	Check information
 
 •	Check interest rates
+
+
 
 loan awalks the user through “zeroing out” (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user’s selections and then launch Diskpart to perform the disk sanitization.
 
