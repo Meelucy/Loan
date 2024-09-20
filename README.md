@@ -82,6 +82,7 @@ The user be asked to enter any amount then the system will calculate the interes
 
   <br/>
 
+![image](https://github.com/user-attachments/assets/9439578f-f723-425b-bbfd-72f258a3e637)
 
 
 <br />
