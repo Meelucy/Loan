@@ -29,6 +29,7 @@ This project consist of C++ contexts such as structures, functions, switch-case 
 The system will display a menu : 
 
 
+![image](https://github.com/user-attachments/assets/ec1ef86f-d6b8-4b25-9bc1-bca0b97c5cb1)
 
 
 
@@ -44,6 +45,13 @@ The user is supposed to log in with his/her password. If account is not found th
  <br/>
 
 
+ 
+![image](https://github.com/user-attachments/assets/0db85d47-13d3-4aa8-a09a-e33e33530058)<br/>
+
+
+
+![image](https://github.com/user-attachments/assets/0f49400a-f45b-49ed-a127-0b06a0934cd2)
+
 
 
 <br />
@@ -55,6 +63,7 @@ Apply for a Loan:
 The will user will be asked to fill in the application form. If fill in meets the requirements, the system will display a successful message to show that application in taken. If requirements are not meat the system will display an error message and allows the user to fill in again
 
  <br/>
+
 
 
 
