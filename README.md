@@ -28,8 +28,8 @@ This project consist of C++ contexts such as structures, functions, switch-case 
 
 The system will display a menu : 
 
-<img src=https://imgur.com/a/8p2zjeZh.png
-height=”80%” width=”80%” alt=”Disk Sanitization Steps”/>
+
+
 
 
 
@@ -43,7 +43,8 @@ The user is supposed to log in with his/her password. If account is not found th
 
  <br/>
 
-<img src=https://i.imgur.com/tcTyMUE.png height=”80%” width=”80%” alt=”Disk Sanitization Steps”/>
+
+
 
 <br />
 
@@ -55,7 +56,8 @@ The will user will be asked to fill in the application form. If fill in meets th
 
  <br/>
 
-<img src=https://imgur.com/a/ZpBGkab.png height=”80%” width=”80%” alt=”Disk Sanitization Steps”/>
+
+
 
 <br />
 
@@ -67,7 +69,7 @@ Information of the customer will be display here
 
   <br/>
 
-<img src=https://i.imgur.com/cdFHBiU.png height=”80%” width=”80%” alt=”Disk Sanitization Steps”/>
+
 
 <br />
 
@@ -79,7 +81,7 @@ The user be asked to enter any amount then the system will calculate the interes
 
   <br/>
 
-<img src=https://imgur.com/a/ZpBGkab.png height=”80%” width=”80%” alt=”Disk Sanitization Steps”/>
+
 
 <br />
 
@@ -91,7 +93,8 @@ This option will end the program.
 
  <br/>
 
-<img src=https://i.imgur.com/K71yaM2.png height=”80%” width=”80%” alt=”Disk Sanitization Steps”/>
+
+
 
 <br />
 
