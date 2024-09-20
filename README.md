@@ -55,7 +55,7 @@ The will user will be asked to fill in the application form. If fill in meets th
 
  <br/>
 
-<img src=https://i.imgur.com/nCIbXbg.png height=”80%” width=”80%” alt=”Disk Sanitization Steps”/>
+<img src=https://imgur.com/a/ZpBGkab.png height=”80%” width=”80%” alt=”Disk Sanitization Steps”/>
 
 <br />
 
