@@ -69,6 +69,7 @@ Information of the customer will be display here
 
   <br/>
 
+![image](https://github.com/user-attachments/assets/e19d6f2e-e066-476d-832b-96d432259ae3)
 
 
 <br />
